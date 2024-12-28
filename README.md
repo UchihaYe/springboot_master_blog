@@ -1,12 +1,6 @@
 ## 博客介绍
 
 <p align=center>
-  <a href="https://www.talkxj.com">
-    <img src="https://static.talkxj.com/articles/4a8ca439f6a4cce8316f9a885c632cee.jpg" alt="风丶宇的个人博客" style="border-radius: 50%">
-  </a>
-</p>
-
-<p align=center>
    基于Springboot + Vue 开发的前后端分离博客
 </p>
 
@@ -24,23 +18,6 @@
    </a>
 </p>
 
-[在线地址](#在线地址) | [目录结构](#目录结构) | [项目特点](#项目特点) | [技术介绍](#技术介绍) | [运行环境](#运行环境) | [开发环境](#开发环境) | [项目截图](#项目截图) | [快速开始](#快速开始) | [注意事项](#注意事项) | [项目总结](#项目总结) | [交流群](#交流群)
-
-## 在线地址
-
-**项目链接：** [www.talkxj.com](https://www.talkxj.com)
-
-**后台链接：** [admin.talkxj.com](https://admin.talkxj.com)
-
-测试账号：test@qq.com，密码：1234567，可登入后台查看。
-
-**Github地址：** [https://github.com/X1192176811/blog](https://github.com/X1192176811/blog)
-
-**Gitee地址：** [https://gitee.com/feng_meiyu/blog](https://gitee.com/feng_meiyu/blog)
-
-**在线接口文档地址：** [https://www.talkxj.com/api/doc.html](https://www.talkxj.com/api/doc.html)
-
-您的star是我坚持的动力，感谢大家的支持，欢迎提交pr共同改进项目。
 
 ## 目录结构
 
