@@ -114,15 +114,7 @@ blog-springboot
 |Elasticsearch|7.9.2|
 |RabbitMQ|3.8.5|
 
-## 项目截图
 
-![QQ截图20210320171133.png](https://static.talkxj.com/articles/1616231666692.png)
-
-![QQ截图20210320235519 1.jpg](https://static.talkxj.com/articles/1616255938601.jpg)
-
-![QQ截图20210320171338.png](https://static.talkxj.com/articles/1616231705373.png)
-
-![QQ截图20210320171401.png](https://static.talkxj.com/articles/1616231714148.png)
 
 ## 快速开始
 
@@ -147,10 +139,6 @@ blog-springboot
 ## 项目总结
 
 博客作为新手入门项目是十分不错的，项目所用的技术栈覆盖的也比较广，适合初学者学习。主要难点在于权限管理、第三方登录、websocket这块。做的不好的地方请大家见谅，有问题的或者有好的建议可以私聊联系我。
-
-## 交流群
-
-![博客技术交流群聊二维码.png](https://static.talkxj.com/articles/bb616125f8b775e871e5b3c92e9c863b.png)
 
 
 
