@@ -115,21 +115,6 @@ blog-springboot
 |RabbitMQ|3.8.5|
 
 
-
-## 快速开始
-
-### 项目环境安装
-
-详见文章[Docker安装运行环境](https://www.talkxj.com/articles/2)
-
-### 项目配置
-
-详见文章[项目配置教程](https://www.talkxj.com/articles/3)
-
-### Docker部署项目
-
-详见文章[项目部署教程](https://www.talkxj.com/articles/13)
-
 ## 注意事项
 
 - 项目拉下来运行后，可到后台管理页面网站配置处修改博客相关信息.
